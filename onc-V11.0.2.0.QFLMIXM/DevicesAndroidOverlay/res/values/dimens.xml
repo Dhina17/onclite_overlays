@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notch_height">89.0px</dimen>
+    <dimen name="notch_width">352.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">51.0px</dimen>
+    <dimen name="rounded_corner_radius_top">68.0px</dimen>
+    <dimen name="status_bar_height_portrait">27.5dip</dimen>
+</resources>
